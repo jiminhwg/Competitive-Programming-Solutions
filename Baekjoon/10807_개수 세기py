@@ -1,0 +1,4 @@
+a = int(input())
+List = list(input().split())
+v = input()
+print(List.count(v))
